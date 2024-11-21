@@ -1,0 +1,4 @@
+How GitHub works
+--------------------
+
+Local repo and Remote repo interacts each other to maintain source code update
