@@ -2,3 +2,13 @@ How GitHub works
 --------------------
 
 Local repo and Remote repo interacts each other to maintain source code update
+
+
+
+add, commit and push from Local Repo to Remote Repo
+
+git add : first step to initiate the changes from local repo to remote repo
+
+git commit -m : second step to put the changes from local repo to remote repo
+
+git push : final step to push the changes to the remote repo
